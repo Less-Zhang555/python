@@ -1,2 +1,2 @@
 # python
-learn pyhton about fundamental knowledge
+learn fundamental knowledge of pyhton
